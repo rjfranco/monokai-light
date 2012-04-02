@@ -1,5 +1,5 @@
 # Monokai Light
-## Monokai brought the the light side of the force.
+### Monokai brought to the light side of the force.
 
 Time and again I've switched between monokai and whatever light-colored alternative I could find at the time, never quite satisfied with the light options out there. Light backgrounds have proven time and again to be less stressful to your vision, and I've always been more of a "light" than "dark" guy. So I figured it was high-time I created a theme I could use more long-term.
 
