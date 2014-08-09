@@ -12,15 +12,23 @@
 				<key>background</key>
 				<string>#FFFFFF</string>
 				<key>caret</key>
-				<string>#49483E</string>
+				<string>#000000</string>
 				<key>foreground</key>
-				<string>#49483C</string>
+				<string>#000000</string>
 				<key>invisibles</key>
-				<string>#D2D2CC</string>
+				<string>#E0E0E0</string>
 				<key>lineHighlight</key>
-				<string>#D2D2CC</string>
+				<string>#A5A5A526</string>
 				<key>selection</key>
-				<string>#D2D2CC</string>
+				<string>#C2E8FF</string>
+				<key>selectionBorder</key>
+				<string>#AACBDF</string>
+				<key>inactiveSelection</key>
+				<string>#EDEDED</string>
+				<key>findHighlight</key>
+				<string>#FFE792</string>
+				<key>findHighlightForeground</key>
+				<string>#000000</string>
 			</dict>
 		</dict>
 		<dict>
