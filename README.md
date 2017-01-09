@@ -5,5 +5,25 @@ Time and again I've switched between monokai and whatever light-colored alternat
 
 It's meant to retain the high contrast and style of Monokai, while giving it a much lighter feel. Suggestions are very much welcome, ( just open an issue or email me )
 
+## Available versions
+
+### atom
+
+* [marketplace](https://atom.io/themes/monokai-light)
+* [repository](https://github.com/rjfranco/atom-monokai-light)
+
+```sh
+apm install monokai-light
+```
+
+### vscode
+
+* [marketplace](https://marketplace.visualstudio.com/items?itemName=anoff.theme-monokai-light)
+* [repository](https://github.com/anoff/vscode-monokai-light)
+
+```sh
+ext install theme-monokai-light
+```
+
 - Yours
 [Ramiro Jr. Franco](http://ramiro.mx)
