@@ -25,5 +25,14 @@ apm install monokai-light
 ext install theme-monokai-light
 ```
 
+### hyperterm
+
+* [marketplace](https://www.npmjs.com/package/hyper-monokai-light)
+* [repository](https://github.com/anoff/hyper-monokai-light)
+
+```sh
+hpm install hyper-monokai-light
+```
+
 - Yours
 [Ramiro Jr. Franco](http://ramiro.mx)
